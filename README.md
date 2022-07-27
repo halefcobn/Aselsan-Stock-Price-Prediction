@@ -30,5 +30,11 @@ Google Colab is actually Jupyter notebooks that run in the cloud and are highly 
 
 Colab allows anybody to write and execute arbitrary python code through the browser.
 
-ipynb is a notebook extension and it can be used by Google Colab
+ipynb is a notebook extension and it can be used 
+by Google Colab
 
+# Result Part
+
+We have 1277 rows in data and 80% of data as train data and 20% od data as test data.
+
+In result graph, accuracy visualization (red: actual, green: predicted).
