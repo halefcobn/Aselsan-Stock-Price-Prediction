@@ -24,7 +24,7 @@ This link was be helpful as well for array problem.
 https://blog.csdn.net/qsx123432/article/details/120723239
 
 
-# Google Colab
+# Google Colaboratory
 Becuase of this problem, Google Colab was used.
 Google Colab is actually Jupyter notebooks that run in the cloud and are highly integrated with Google Drive.
 
