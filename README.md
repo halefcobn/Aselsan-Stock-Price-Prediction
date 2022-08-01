@@ -37,4 +37,4 @@ by Google Colab
 
 We have 1277 rows in data and 80% of data as train data and 20% od data as test data.
 
-In result graph, accuracy visualization (red: actual, green: predicted).
+In result graph, there are lines demonstrating train line ("Ground Truth"), already existing data or line ("exsiting line") and prediction line ("prediction").
